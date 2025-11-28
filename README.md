@@ -1,1 +1,3 @@
-# Wiki
+# Вики сервера Magnetic
+
+ZZOOVV
